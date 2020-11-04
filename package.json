@@ -1,21 +1,21 @@
 {
-  "name": "bmc_sales",
+  "name": "travel-Japan",
   "version": "1.0.0",
-  "description": "diplom",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denrybaakov/BMC_sales.git"
+    "url": "git+https://github.com/denrybaakov/travel-Japan.git"
   },
   "author": "denrybaakov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/denrybaakov/BMC_sales/issues"
+    "url": "https://github.com/denrybaakov/travel-Japan/issues"
   },
-  "homepage": "https://github.com/denrybaakov/BMC_sales#readme",
+  "homepage": "https://github.com/denrybaakov/travel-Japan#readme",
   "dependencies": {
     "del": "^5.1.0",
     "gulp-htmlmin": "^5.0.1",
